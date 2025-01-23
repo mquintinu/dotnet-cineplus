@@ -1,0 +1,6 @@
+@CinePlus_HostAddress = http://localhost:5226
+
+GET {{CinePlus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
